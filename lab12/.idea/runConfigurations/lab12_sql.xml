@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lab12.sql" type="DatabaseScript" editBeforeRun="true" focusToolWindowBeforeRun="true" singleton="false" nameIsGenerated="true">
+    <script-file value="$PROJECT_DIR$/lab12.sql" />
+    <script-mode>FILE</script-mode>
+    <data-source id="b8b6183c-4977-47de-a902-044a1fb1d845" />
+    <method v="2" />
+  </configuration>
+</component>
